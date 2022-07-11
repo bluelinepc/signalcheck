@@ -1,5 +1,7 @@
 # SignalCheck Pro
 
+Releases are only published on Google Play: https://play.google.com/store/apps/details?id=com.blueline.signalcheck
+
 SignalCheck allows users to check the true signal strength and details about their connections. The standard Android signal bars and connection indicators are often inaccurate; SignalCheck shows you true detailed signal information about all of your device's connections, including 5G-NR, LTE (4G), 1xRTT CDMA, EV-DO / eHRPD, HSPA, HSDPA, HSPA+, HSDPA, HSUPA, and other GSM / WCDMA technologies. Data about your current Wi-Fi connection is also displayed, including signal strength, SSID, link speed, and IP address.
 
 Support for dual-SIM devices is in development, coming soon.
@@ -23,7 +25,9 @@ Other features include the ability to automatically keep the screen on while Sig
 A feature to quickly reset your data connections from within the app is available, but your device MUST be "rooted" for this to work on Android 4.2 and up. This feature does not work on non-rooted devices.
 
 The following permissions MUST be granted to SignalCheck in order for the app to operate properly. Denying any of these permissions will result in limited app functionality due to Android security policies:
-LOCATION (required to obtain mobile and Wi-Fi connection information, and ability to log location information; must select "Allow all the time" to permit background access, for proper display of notification icon and logging when app is in the background)
-PHONE (required to obtain mobile connection information)
+
+* LOCATION (required to obtain mobile and Wi-Fi connection information, and ability to log location information; must select "Allow all the time" to permit background access, for proper display of notification icon and logging when app is in the background)
+
+* PHONE (required to obtain mobile connection information)
 
 Feedback is always welcome, both positive and negative. Improvements to the app are always in the works!
