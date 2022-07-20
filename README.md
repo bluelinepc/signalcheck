@@ -6,4 +6,4 @@ SignalCheck Pro allows users to check the true signal strength and details about
 
 Special thanks to S4GRU for their tremendous support of SignalCheck from the beginning! Visit https://www.S4GRU.com for discussions about T-Mobile network upgrades, as well as talk about devices and other mobile networks. There is a lengthy SignalCheck forum discussion thread as well.
 
-Please visit the [wiki](https://github.com/bluelinepc/signalcheck/wiki) for more information about this app. For additional support, also [check the Issues tab](https://github.com/bluelinepc/signalcheck/issues). Visit the [Support](https://github.com/bluelinepc/signalcheck/wiki/Contact-Support) page for contact information if you still need assistance.
+Please visit the [wiki](https://github.com/bluelinepc/signalcheck/wiki) for more information about this app. For additional support, also [check the Issues tab](https://github.com/bluelinepc/signalcheck/issues). Visit the [Support](https://github.com/bluelinepc/signalcheck/wiki/Support) page for contact information if you still need assistance.
